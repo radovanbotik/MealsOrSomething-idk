@@ -1,0 +1,9 @@
+.section {
+  /* position: fixed; */
+  top: 0;
+  height: 100%;
+  padding: 50px;
+  display: grid;
+  place-content: center;
+  border: 5px solid black;
+}

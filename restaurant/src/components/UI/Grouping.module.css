@@ -1,0 +1,14 @@
+.group {
+  background-color: aquamarine;
+}
+.group ul {
+  list-style: none;
+  display: flex;
+  gap: 2rem;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.group ul li {
+  flex: 1;
+  padding: 3rem;
+}

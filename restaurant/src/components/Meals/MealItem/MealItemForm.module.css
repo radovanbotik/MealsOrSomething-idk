@@ -1,0 +1,7 @@
+.form {
+  display: flex;
+  flex-direction: column;
+}
+.form button {
+  padding: 1ex;
+}

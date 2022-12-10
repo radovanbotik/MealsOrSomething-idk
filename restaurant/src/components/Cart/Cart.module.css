@@ -1,0 +1,11 @@
+.cartitems {
+}
+.totals {
+  display: flex;
+  justify-content: space-between;
+}
+.buttons {
+  display: flex;
+  justify-content: right;
+  gap: 1ex;
+}
